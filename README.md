@@ -1,3 +1,11 @@
+# RGL-DND
+Proof of concept: Combining drag and drop, reorderable lists, and customizable components.
+
+Makes heavy use of React-DND.
+https://github.com/react-dnd/react-dnd/
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
